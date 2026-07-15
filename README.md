@@ -16,3 +16,12 @@ cd TAK-Utilities
 # Run setup
 chmod +x setup-tak-utils.sh
 ./setup-tak-utils.sh
+TAK-Utilities/
+├── setup-tak-utils.sh     # Initial setup script
+├── scripts/               # Main utility scripts
+├── docs/                  # Documentation
+├── icons/                 # ATAK icon sets
+├── plugins/               # TAK plugins
+├── .gitignore
+├── LICENSE
+└── README.md
